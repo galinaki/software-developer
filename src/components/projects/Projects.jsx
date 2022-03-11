@@ -14,6 +14,7 @@ export default function Projects() {
       <a href='https://silly-kowalevski-1591fc.netlify.app/'>Click here</a>
       <h5><a href='https://github.com/galinaki/proyecto-tres'>back-end github</a></h5>
       <h5><a href='https://github.com/bannersamuelson/Life-After-General-Assembly'>front-end github</a></h5>
+      <h5>groups linkedin</h5>
       <h4>Save Animals</h4>
       <a href='https://galinak-saveanimals.netlify.app/animals'>Click here</a>
       <h5><a href='https://github.com/galinaki/savelives'>github</a></h5>
