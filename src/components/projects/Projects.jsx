@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Projects() {
   return (
-    <div>
+    <div id='projects'>
       <h2>My projects</h2>
       <h4>Lyrics mood</h4>
       <a href='https://galinaki.github.io/Lyrics/'>Click here</a>

@@ -20,6 +20,8 @@ function App() {
       <br />
       <br />
       <Footer />
+      <br />
+      <br />
     </div>
   );
 }
