@@ -1,21 +1,19 @@
 import React from 'react'
 import { HashLink as Link } from 'react-router-hash-link'
-import Footer from '../footer/Footer'
-import Projects from '../projects/Projects'
-import Resume from '../resume/Resume'
+import styles from './Header.module.css'
 
 export default function Header() {
   return (
-    <div>
-      <ul>
+    <div className={styles.header}>
+      <ul className={styles.ulist}>
         <li>
-          <Link smooth to='#projects'>My projects</Link>
+          <Link className={styles.header_link} smooth to='#projects'>My projects</Link>
         </li>
         <li>
-          <Link smooth to='#resume'>Resume</Link>
+          <Link className={styles.header_link} smooth to='#resume'>Resume</Link>
         </li>
         <li>
-          <Link smooth to='#contact'>Contact me</Link>
+          <Link className={styles.header_link} smooth to='#contact'>Contact me</Link>
         </li>
       </ul>
     </div>

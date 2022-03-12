@@ -1,0 +1,20 @@
+.header {
+  background-color: black;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+}
+.ulist {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  margin-top: 15px;
+}
+.header_link {
+  text-decoration: none;
+  margin: 20px;
+  padding-top: 15px;
+  color: bisque;
+}
