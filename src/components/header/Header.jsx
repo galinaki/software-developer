@@ -8,9 +8,9 @@ export default function Header() {
   return (
     <div>
       <ul>
-        <li><a href='#projects'>My projects</a></li>
+        {/* <li><a href='#projects'>My projects</a></li>
         <li><a href='#resume'>Resume</a></li>
-        <li><a href='#footer'>Contact me</a></li>
+        <li><a href='#footer'>Contact me</a></li> */}
       </ul>
     </div>
   )
