@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&display=swap");
+
+.projects {
+  font-family: "Zen Kaku Gothic New", sans-serif;
+}
+.project_link,
+.gh_project_link {
+  text-decoration: none;
+  color: darkslategrey;
+}
