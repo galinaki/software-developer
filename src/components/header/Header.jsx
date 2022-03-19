@@ -8,7 +8,7 @@ export default function Header() {
     <div className={styles.header}>
       <ul className={styles.ulist}>
         <li>
-        <Link className={styles.header_link} smooth to='#home'>Home</Link>
+          <Link className={styles.header_link} smooth to='#home'>Home</Link>
         </li>
         <li>
           <Link className={styles.header_link} smooth to='#projects'>My projects</Link>
